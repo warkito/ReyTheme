@@ -13,4 +13,8 @@ Reytheme is a lightweight and modern WordPress theme designed for developers and
 ## Support
 For professional web development services:
 
-[Agence Web](https://studiojae.fr)
+[Agence SEO](https://studiojae.fr/solutions/seo/)
+
+[Agence SEO Nice](https://studiojae.fr/solutions/seo/nice/) or [Agence SEO Cannaes](https://studiojae.fr/solutions/seo/cannes/)
+
+WordPress Dev is [Création de site](https://studiojae.fr/solutions/developpement/) 
